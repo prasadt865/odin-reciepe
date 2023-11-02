@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+a:hover{
+    color: indianred;
+}
+li{
+    list-style-type:upper-roman;
+    margin: 10px;
+    padding: 10px;
+}
